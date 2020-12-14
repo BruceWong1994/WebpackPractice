@@ -1,2 +1,2 @@
 # WebpackPractice
-An item I practiced by myself
+One item that I practiced by myself
